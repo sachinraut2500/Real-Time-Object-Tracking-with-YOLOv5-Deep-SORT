@@ -11,7 +11,7 @@ Track multiple moving objects (e.g., people, cars) in live video feed or recorde
 --------
 
 ## 📦 Requirements
-
+`````
 ```bash
 pip install torch torchvision opencv-python
 pip install deep_sort_realtime
