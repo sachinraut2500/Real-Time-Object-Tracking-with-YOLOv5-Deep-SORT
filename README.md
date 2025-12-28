@@ -2,7 +2,7 @@
 
 This project performs real-time object detection and tracking using a combination of **YOLOv5** and **Deep SORT**.
 
------
+
 
 ## 📌 Use Case
 
