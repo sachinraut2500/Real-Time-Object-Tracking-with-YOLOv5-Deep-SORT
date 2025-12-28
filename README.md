@@ -8,8 +8,6 @@ This project performs real-time object detection and tracking using a combinatio
 
 Track multiple moving objects (e.g., people, cars) in live video feed or recorded footage with unique object IDs.
 
-----------------
-
 ## 📦 Requirements
 `````
 ```bash
