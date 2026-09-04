@@ -1,5 +1,5 @@
 # 🧍‍♂️ Real-Time Object Tracking using YOLOv5 and Deep SORT
-----------------
+-----------------
 This project performs real-time object detection and tracking using a combination of **YOLOv5** and **Deep SORT**.
 
 ----------------------
